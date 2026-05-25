@@ -1,26 +1,11 @@
 ---
 name: frontend-animation
 description: >
-  Transform ANY concept, process, workflow, or system into an animated, interactive HTML
-  demonstration. Trigger whenever the user wants to visualize something that has steps,
-  flow, sequence, or cause-and-effect — regardless of domain.
-
-  Trigger on: "animate this", "show me how this works", "make a visual", "create a demo",
-  "explain this visually", "show the flow", "illustrate this concept", "walk me through",
-  "make an interactive explainer", "build a simulation", "visualize this".
-
-  Works for ANY domain — not limited to software or AI:
-  - Finance: compound interest, loan amortization, options pricing, order book, portfolio rebalancing
-  - Teaching / Education: sorting algorithms, Dijkstra's, how HTTP works, photosynthesis, supply & demand
-  - Software Engineering: CI/CD pipeline, git branching, Docker build, database query plan, OAuth flow
-  - AI / LLM: agent loops, RAG pipelines, tool-calling chains, fine-tuning steps
-  - Science: cell division, DNA replication, Newton's laws simulation, chemical reactions
-  - Business / Product: sales funnel, user onboarding, approval workflow, SLA escalation
-  - Networking: TCP handshake, DNS resolution, CDN cache flow, load balancer routing
-  - Everyday processes: how a coffee machine works, how a bill becomes a law, how bread rises
-
-  If it can be broken into steps — it can be animated. Output is always a single
-  self-contained HTML file with no external JS dependencies.
+  Animate any concept, process, or workflow as an interactive HTML demo. Trigger on:
+  "animate this", "show me how this works", "make a visual", "explain this visually",
+  "build a simulation", "walk me through". Works for any domain — finance, education,
+  AI, software, networking, science, business. If it has steps, it can be animated.
+  Output: single self-contained HTML file, no external JS.
 ---
 
 # Frontend Animation Skill
